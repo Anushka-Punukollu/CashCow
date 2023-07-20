@@ -1,0 +1,378 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		001F93C52A69789B00C5FF80 /* quizBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001F93C42A69789B00C5FF80 /* quizBudget.swift */; };
+		001F93C72A6978AE00C5FF80 /* expenseTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001F93C62A6978AE00C5FF80 /* expenseTracker.swift */; };
+		001F93C92A697DCD00C5FF80 /* interestCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001F93C82A697DCD00C5FF80 /* interestCalculator.swift */; };
+		001F93CB2A6980CA00C5FF80 /* quizAccounting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001F93CA2A6980CA00C5FF80 /* quizAccounting.swift */; };
+		001F93D72A69B2D900C5FF80 /* creditQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001F93D62A69B2D900C5FF80 /* creditQuiz.swift */; };
+		0A0627D72A6828C6003A3A99 /* learnPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627D62A6828C6003A3A99 /* learnPage.swift */; };
+		0A0627D92A6828DF003A3A99 /* credit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627D82A6828DF003A3A99 /* credit.swift */; };
+		0A0627DB2A68295B003A3A99 /* budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627DA2A68295B003A3A99 /* budget.swift */; };
+		0A0627DD2A682970003A3A99 /* accounting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A0627DC2A682970003A3A99 /* accounting.swift */; };
+		0AF47E6B2A66FD9100B48624 /* CashCowFinalProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF47E6A2A66FD9100B48624 /* CashCowFinalProjectApp.swift */; };
+		0AF47E6D2A66FD9100B48624 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF47E6C2A66FD9100B48624 /* ContentView.swift */; };
+		0AF47E6F2A66FD9700B48624 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AF47E6E2A66FD9700B48624 /* Assets.xcassets */; };
+		0AF47E722A66FD9700B48624 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AF47E712A66FD9700B48624 /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		001F93C42A69789B00C5FF80 /* quizBudget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizBudget.swift; sourceTree = "<group>"; };
+		001F93C62A6978AE00C5FF80 /* expenseTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = expenseTracker.swift; sourceTree = "<group>"; };
+		001F93C82A697DCD00C5FF80 /* interestCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = interestCalculator.swift; sourceTree = "<group>"; };
+		001F93CA2A6980CA00C5FF80 /* quizAccounting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizAccounting.swift; sourceTree = "<group>"; };
+		001F93D62A69B2D900C5FF80 /* creditQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = creditQuiz.swift; sourceTree = "<group>"; };
+		0A0627D62A6828C6003A3A99 /* learnPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learnPage.swift; sourceTree = "<group>"; };
+		0A0627D82A6828DF003A3A99 /* credit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = credit.swift; sourceTree = "<group>"; };
+		0A0627DA2A68295B003A3A99 /* budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = budget.swift; sourceTree = "<group>"; };
+		0A0627DC2A682970003A3A99 /* accounting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accounting.swift; sourceTree = "<group>"; };
+		0AF47E672A66FD9100B48624 /* CashCowFinalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CashCowFinalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AF47E6A2A66FD9100B48624 /* CashCowFinalProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashCowFinalProjectApp.swift; sourceTree = "<group>"; };
+		0AF47E6C2A66FD9100B48624 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0AF47E6E2A66FD9700B48624 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0AF47E712A66FD9700B48624 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0AF47E642A66FD9100B48624 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0AF47E5E2A66FD9100B48624 = {
+			isa = PBXGroup;
+			children = (
+				0AF47E692A66FD9100B48624 /* CashCowFinalProject */,
+				0AF47E682A66FD9100B48624 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0AF47E682A66FD9100B48624 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0AF47E672A66FD9100B48624 /* CashCowFinalProject.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0AF47E692A66FD9100B48624 /* CashCowFinalProject */ = {
+			isa = PBXGroup;
+			children = (
+				0AF47E6A2A66FD9100B48624 /* CashCowFinalProjectApp.swift */,
+				0AF47E6C2A66FD9100B48624 /* ContentView.swift */,
+				0A0627D62A6828C6003A3A99 /* learnPage.swift */,
+				0A0627D82A6828DF003A3A99 /* credit.swift */,
+				0A0627DA2A68295B003A3A99 /* budget.swift */,
+				001F93C62A6978AE00C5FF80 /* expenseTracker.swift */,
+				001F93C42A69789B00C5FF80 /* quizBudget.swift */,
+				0A0627DC2A682970003A3A99 /* accounting.swift */,
+				001F93CA2A6980CA00C5FF80 /* quizAccounting.swift */,
+				001F93C82A697DCD00C5FF80 /* interestCalculator.swift */,
+				0AF47E6E2A66FD9700B48624 /* Assets.xcassets */,
+				0AF47E702A66FD9700B48624 /* Preview Content */,
+				001F93D62A69B2D900C5FF80 /* creditQuiz.swift */,
+			);
+			path = CashCowFinalProject;
+			sourceTree = "<group>";
+		};
+		0AF47E702A66FD9700B48624 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				0AF47E712A66FD9700B48624 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0AF47E662A66FD9100B48624 /* CashCowFinalProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0AF47E752A66FD9700B48624 /* Build configuration list for PBXNativeTarget "CashCowFinalProject" */;
+			buildPhases = (
+				0AF47E632A66FD9100B48624 /* Sources */,
+				0AF47E642A66FD9100B48624 /* Frameworks */,
+				0AF47E652A66FD9100B48624 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CashCowFinalProject;
+			productName = CashCowFinalProject;
+			productReference = 0AF47E672A66FD9100B48624 /* CashCowFinalProject.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0AF47E5F2A66FD9100B48624 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					0AF47E662A66FD9100B48624 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 0AF47E622A66FD9100B48624 /* Build configuration list for PBXProject "CashCowFinalProject" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0AF47E5E2A66FD9100B48624;
+			productRefGroup = 0AF47E682A66FD9100B48624 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0AF47E662A66FD9100B48624 /* CashCowFinalProject */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0AF47E652A66FD9100B48624 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0AF47E722A66FD9700B48624 /* Preview Assets.xcassets in Resources */,
+				0AF47E6F2A66FD9700B48624 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0AF47E632A66FD9100B48624 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0AF47E6D2A66FD9100B48624 /* ContentView.swift in Sources */,
+				0AF47E6B2A66FD9100B48624 /* CashCowFinalProjectApp.swift in Sources */,
+				0A0627DD2A682970003A3A99 /* accounting.swift in Sources */,
+				001F93CB2A6980CA00C5FF80 /* quizAccounting.swift in Sources */,
+				001F93C92A697DCD00C5FF80 /* interestCalculator.swift in Sources */,
+				0A0627D92A6828DF003A3A99 /* credit.swift in Sources */,
+				0A0627DB2A68295B003A3A99 /* budget.swift in Sources */,
+				0A0627D72A6828C6003A3A99 /* learnPage.swift in Sources */,
+				001F93C72A6978AE00C5FF80 /* expenseTracker.swift in Sources */,
+				001F93D72A69B2D900C5FF80 /* creditQuiz.swift in Sources */,
+				001F93C52A69789B00C5FF80 /* quizBudget.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0AF47E732A66FD9700B48624 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0AF47E742A66FD9700B48624 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0AF47E762A66FD9700B48624 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CashCowFinalProject/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.CashCowFinalProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0AF47E772A66FD9700B48624 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"CashCowFinalProject/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kwk.CashCowFinalProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0AF47E622A66FD9100B48624 /* Build configuration list for PBXProject "CashCowFinalProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0AF47E732A66FD9700B48624 /* Debug */,
+				0AF47E742A66FD9700B48624 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0AF47E752A66FD9700B48624 /* Build configuration list for PBXNativeTarget "CashCowFinalProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0AF47E762A66FD9700B48624 /* Debug */,
+				0AF47E772A66FD9700B48624 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0AF47E5F2A66FD9100B48624 /* Project object */;
+}
