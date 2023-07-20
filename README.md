@@ -5,8 +5,8 @@ Ca$hCow is an app 📱 that aims to educate teens on the complex world of person
 Made with 🤍 
 
 ## App Views
-
+s
 
 ## Built With 🛠
-* SwiftUI - 
-* MockU
+* SwiftUI - SwiftUI is a modern and intuitive user interface framework developed by Apple for building applications across their platforms, such as iOS, macOS, watchOS, and tvOS. 
+* Figma + MiroBoard - Helped in the design and collaboration process of creating mockups and prototypes.
