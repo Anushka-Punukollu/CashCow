@@ -1,5 +1,7 @@
 # Ca$hCow
 
+Almost 75% of teens lack confidence in their knowledge of personal finance. This is HUGE since financial literacy is a key cornerstone for independence and well-being later on in life. The current educational system 🏫 often fails to provide comprehensive and practical financial education, leaving youth ill-prepared to face the financial realities of adulthood. Without access to proper knowledge, many young people struggle to understand basic financial concepts leading to debt, poor financial decisions, and more 💵.
+
 Ca$hCow is an app 📱 that aims to educate teens and young adults on the complex world of personal finance, in a fun and interactive way. This V1 of the app has sections on budgeting, credit, & accounting with tools embedded within the section including: interactive quizzes, interest calculators, expense calculators, & more!
 
 Made with 🤍 
