@@ -5,7 +5,7 @@ Ca$hCow is an app 📱 that aims to educate teens and young adults on the comple
 Made with 🤍 
 
 ## App Views
-<img width="850" alt="Screenshot 2023-07-20 at 5 44 17 PM" src="https://github.com/Anushka-Punukollu/CashCow/assets/121831894/80cb1f6d-d115-4cf0-8a39-8553121342b5">
+<img width="925" alt="Screenshot 2023-07-20 at 5 44 17 PM" src="https://github.com/Anushka-Punukollu/CashCow/assets/121831894/80cb1f6d-d115-4cf0-8a39-8553121342b5">
 
 
 ## Built With 🛠
